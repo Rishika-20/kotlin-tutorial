@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6450141-ea7e-4e4b-899c-f2740e966c03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Tutorials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/contidional_statements/If_Else_Ladder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/contidional_statements/Nested_if_else.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/contidional_statements/When_Expression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/contidional_statements/if_else_statement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/input_output/InputFromUser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/input_output/ThroughScanner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/strings/EscapedStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/strings/RawStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin/type_conversion/TypeConversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Peec4qcEgPiQo0KuWbwpL4NSjH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.When_ExpressionKt">
+    <configuration name="If_Else_LadderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin.contidional_statements.If_Else_LadderKt" />
+      <module name="Kotlin-Tutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_else_statementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin.contidional_statements.If_else_statementKt" />
+      <module name="Kotlin-Tutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nested_if_elseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin.contidional_statements.Nested_if_elseKt" />
+      <module name="Kotlin-Tutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThroughScannerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin.input_output.ThroughScannerKt" />
+      <module name="Kotlin-Tutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="When_ExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin.contidional_statements.When_ExpressionKt" />
+      <module name="Kotlin-Tutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.When_ExpressionKt" />
+        <item itemvalue="Kotlin.Nested_if_elseKt" />
+        <item itemvalue="Kotlin.If_Else_LadderKt" />
+        <item itemvalue="Kotlin.If_else_statementKt" />
+        <item itemvalue="Kotlin.ThroughScannerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6450141-ea7e-4e4b-899c-f2740e966c03" name="Changes" comment="" />
+      <created>1683822055323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683822055323</updated>
+    </task>
+    <servers />
+  </component>
+</project>
