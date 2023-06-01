@@ -14,3 +14,4 @@ fun main(){
 
     println("\nThe name of employee is, $name and id is, $id")
 }
+

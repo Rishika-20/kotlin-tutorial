@@ -1,0 +1,10 @@
+The main difference between flatten() and flatMap() is:
+
+   <**> flatten() takes a collection of collections and flattens it into a single-level collection,
+      removing the nesting structure.
+
+   <**> flatMap() transforms each element of a collection into a new collection and then flattens the
+       resulting collections into a single-level collection, combining the mapping and flattening operations.
+
+1.flatten() is used when you want to remove the nesting structure from a collection,
+2.while flatMap() is used when you want to transform and flatten a collection simultaneously.
