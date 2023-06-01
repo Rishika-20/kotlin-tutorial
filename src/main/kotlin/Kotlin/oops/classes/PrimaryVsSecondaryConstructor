@@ -1,0 +1,67 @@
+#A class can have one primary constructor and zero or more secondary constructors.
+============================================================================================
+NOTE:::
+When to use primary constructor, If all the values of field are mentioned then we should use primary
+else if any one values is not given then we should move to Secondary constructor.
+
+============================================================================================
+##PrimaryVsSecondaryConstructor
+
+Here are the main differences between primary and secondary constructors:
+
+Syntax: The primary constructor is declared in the class header,
+             while the secondary constructor is declared inside the class body.
+             The primary constructor has no explicit keyword,
+             while the secondary constructor uses the constructor keyword.
+
+Parameters: The primary constructor can have parameters, which are used
+                 to initialize the properties of the class. The secondary constructor
+                 can also have parameters,
+                 but they must delegate to the primary constructor using the this keyword.
+
+ Initialization: The primary constructor is responsible for initializing the properties of the class,
+                 while the secondary constructor can be used to perform additional initialization logic
+                 or provide alternative ways to construct instances of the class.
+
+Overloading:     The primary constructor cannot be overloaded,
+                 while the secondary constructor can be overloaded to provide different ways to
+                 construct instances of the class.
+
+#  Overall, the primary constructor is used to define the main way to construct instances of a class
+   and is responsible for initializing the properties of the class. Secondary constructors,
+   on the other hand, can provide additional ways to construct instances and can be used for
+   additional initialization logic.
+
+   Primary constructor example:
+   --------------------------------------------------------------
+
+   class Person(val name: String, val age: Int) {
+       // Properties are initialized in the primary constructor
+
+       fun sayHello() {
+           println("Hello, my name is $name and I'm $age years old")
+       }
+   }
+--------------------------------------------------------------------------
+Secondary Constructor Example:
+==================================
+
+class Person {
+    val name: String
+    var age: Int
+
+    constructor(name: String, age: Int) {
+        this.name = name
+        this.age = age
+    }
+
+    constructor(name: String) {
+        this.name = name
+        this.age = 0
+    }
+
+    fun sayHello() {
+        println("Hello, my name is $name and I'm $age years old")
+    }
+}
+---------------------------------------------------------------------------------------------
